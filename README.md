@@ -1,6 +1,6 @@
 # Why Comment
 
-This is a simple test for anyone who believes code is "self documenting".
+This is a simple test for anyone who believes that code is "self documenting".
 
 [frequency.go](./frequency.go) is the entry point for this library.
 Frequency takes in a stream of information and determines something about that information.

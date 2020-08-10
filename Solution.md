@@ -1,6 +1,6 @@
 # Solution
 
-Honestly, how long did it have taken for you to figure out what it did?
+Honestly, how long did it take for you to figure out what this does?
 Or did you never figure it out?
 
 Read the comments below and see if you were right.
@@ -13,8 +13,8 @@ Read the comments below and see if you were right.
 // At any time during streaming, the current most frequent values can be gotten.
 //
 // This is useful for counting large amounts of events occurring in a system
-// without requiring massive amount of time or memory. For example, keeping
-// track of which links are clicked on the most by customers.
+// without requiring a massive amount of time or memory. For example, keeping
+// track of which links or buttons are clicked on the most by customers.
 //
 // This is known as the heavy hitters algorithm:
 // See https://en.wikipedia.org/wiki/Streaming_algorithm#Frequent_elements
@@ -46,7 +46,7 @@ They help you remember and others learn why the code was written.
 After reading the comments, you know what this does and what it is used for.
 You also have links to additional information if you want to learn more.
 
-Now ask yourself, did it honestly take longer to read the comment
+Now ask yourself, did it honestly take longer to read the comments
 than to figure it out based on the code?
 
 Finally, I hear all the time that comments get out-of-date. Comments are part
@@ -55,7 +55,7 @@ the meaning of why the code should be used anyway. If updating a method makes
 the comment out-of-date, you are either abusing a method or the comment was poorly written.
 
 *Note: The Heavy Hitters problem has been used by many companies as an interview question.
-If I used this during an interview, I would ask, "what could be done to improve this code?"
-The answer I'm looking for isn't example usage or unit-test (both good) but what I'm looking
+If I used this during an interview, I would ask, "What could be done to improve this code?"
+The answer I'm looking for isn't example usages or unit-tests (both good) but what I'm looking
 for is someone who realizes their code is used by other people and other people need
 comments to understand why you wrote that code.*
