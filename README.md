@@ -13,7 +13,7 @@ The goal is for you to read the code and try to figure out what this does.
 As in, what does it determine about the information?
 Keep track of how long it took for you to figure it out.
 
-DO NOT read the [Solution.md](./solution.md) until you think you have it
+DO NOT read the [Solution.md](./Solution.md) until you think you have it
 all figured out. Then see if the comments that were removed match what
 you think this code does.
 
